@@ -64,7 +64,7 @@ public class FuelRateCommand extends ObdCommand {
     /**
      * @return a double.
      */
-    public double getVoltage() {
+    public double getFuelRate() {
         return fuelrate;
     }
 
